@@ -1,0 +1,11 @@
+C:\Users\Oluwa\Documents\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.exe
+C:\Users\Oluwa\Documents\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.deps.json
+C:\Users\Oluwa\Documents\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.runtimeconfig.json
+C:\Users\Oluwa\Documents\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.runtimeconfig.dev.json
+C:\Users\Oluwa\Documents\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.dll
+C:\Users\Oluwa\Documents\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.pdb
+C:\Users\Oluwa\Documents\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.csprojAssemblyReference.cache
+C:\Users\Oluwa\Documents\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.AssemblyInfoInputs.cache
+C:\Users\Oluwa\Documents\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.AssemblyInfo.cs
+C:\Users\Oluwa\Documents\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.dll
+C:\Users\Oluwa\Documents\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.pdb
